@@ -2,6 +2,9 @@ dependencies:
 - name: acme-trading-backend
   repository: http://jenkins-x-chartmuseum:8080
   version: 0.0.1
+- name: acme-trading-boot
+  repository: http://jenkins-x-chartmuseum:8080
+  version: 0.0.1
 - name: acme-trading-frontend
   repository: http://jenkins-x-chartmuseum:8080
   version: 0.0.2
